@@ -35,7 +35,7 @@ employee information and changes
     - Manager
     - Clerk
     - System Admin
-- ### Use Case:
+- ### Use Cases:
     - Manage Time
     - Approve Request
     - Award Time

@@ -1,5 +1,5 @@
-# Vacation Tracking System (VTC) - OOD
-VTC object oriented design focusing on detailed design and implementation including all needed diagrams and showcases.
+# Vacation Tracking System (VTS) - OOD
+VTS object oriented design focusing on detailed design and implementation including all needed diagrams and showcases.
 this project developed in light of "Object-Oriented Analysis and Design with Applications - Third Edition" book within Eng. Ahmed Emad Mentorship program.
 ## Application Vision
 >A Vacation Tracking System (VTS) will provide individual employees with the

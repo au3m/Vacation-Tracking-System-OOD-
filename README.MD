@@ -48,3 +48,37 @@ employee information and changes
 
 ![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/top%20level%20use%20case%20model.png?raw=true)
 > Top Level Use Case Model
+
+## Manage Time Use Case
+- __Actors:__ Employee
+- __Goal:__ The employee wishes to submit a new request for vacation time.
+- __Precondition:__ The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time.
+
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/manage%20time%20sd.png?raw=true)
+
+## Withdraw Request Use Case
+- __Actors:__ Employee
+- __Goal:__ The employee wants to withdraw an outstanding request for vacation time.
+- __Preconditions:__ An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
+
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/withdraw%20sd.png?raw=true)
+
+## Cancel Approved Request Use Case
+- __Actors:__ Employee
+- __Goal:__ The employee wants to cancel an approved vacation time request.
+- __Preconditions:__ The employee has a vacation time request that has been approved and is scheduled for some time in the future or the recent past (previous 5 business days).
+
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/cancel%20sd.png?raw=true)
+
+## Edit Pending Request Use Case
+- __Actors:__ Employee
+- __Goal:__ The employee wants to edit the description or title of a pending request.
+- __Preconditions:__ An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
+
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/edit%20sd.png?raw=true)
+
+ ---
+ 
+## Vacation Request State Machine Diagram
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/vacation%20request%20state%20machine.png?raw=true)
+

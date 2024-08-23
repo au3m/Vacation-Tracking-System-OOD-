@@ -82,3 +82,6 @@ employee information and changes
 ## Vacation Request State Machine Diagram
 ![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/vacation%20request%20state%20machine.png?raw=true)
 
+---
+
+

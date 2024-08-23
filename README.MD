@@ -29,6 +29,19 @@ limits)
 given employee’s vacation request summary
 - Interfaces with the HR department legacy systems to retrieve required
 employee information and changes
+
+---
+
+## Work Flow Diagram
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/work%20flow.png?raw=true)
+
+---
+
+## ERD
+![](https://github.com/au3m/Vacation-Tracking-System-OOD-/blob/main/assets/vts%20erd.png?raw=true)
+
+---
+
 ## Use Case Model
 - ### Actors:
     - Employee
